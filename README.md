@@ -5,6 +5,7 @@
 ## 🎬 Demo
 
 🚀 Découvrez le projet en action — cliquez sur l'image pour voir la démo vidéo !
+
 [![Watch the video](https://img.youtube.com/vi/btxV5AWqPNM/0.jpg)](https://www.youtube.com/watch?v=btxV5AWqPNM)
 
 ## 🚀 Fonctionnalités
