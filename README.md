@@ -2,6 +2,13 @@
 
 **NumberBook** est une application Android permettant de gérer un répertoire de contacts synchronisé avec un serveur distant (MySQL via PHP). L'application offre une interface moderne en Material Design avec des fonctionnalités de recherche en temps réel et d'ajout direct.
 
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/btxV5AWqPNM" 
+title="YouTube video player" 
+frameborder="0" 
+allowfullscreen>
+</iframe>
+
 ## 🚀 Fonctionnalités
 
 - **Affichage en temps réel** : Liste des contacts récupérée depuis une base de données MySQL.
